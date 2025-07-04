@@ -11,6 +11,7 @@ A command-line To-Do List App built using Python. Allows user to add, view, dele
 
 ## to Run the app Follow these steps
 Step 1 : Open your terminal or command prompt
+
 Step 2 : Nvigate to project directory
 
 ```bash
